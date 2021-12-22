@@ -1,6 +1,4 @@
-# Vagrant Command
-
-https://app.vagrantup.com/boxes/search
+## Vagrant Command
 
 ```bash
 # manages boxes: installation
@@ -46,3 +44,9 @@ vagrant reload
 # connects to machine via SSH
 vagrant ssh
 ```
+
+## Materials
+
+- [vagrant boxes](https://app.vagrantup.com/boxes/search)
+
+- [a great Vagrant Crash Course on youtube](https://youtu.be/vBreXjkizgo)
